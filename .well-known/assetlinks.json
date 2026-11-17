@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.wellsey001.earshot",
+      "sha256_cert_fingerprints": [
+        "F9:1A:9C:23:C9:92:E2:D5:32:B6:30:85:BE:60:5E:83:78:4E:1E:4F:56:3A:E6:30:76:7F:76:42:BE:3D:8B:B7"
+      ]
+    }
+  }
+]
